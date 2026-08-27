@@ -1,4 +1,3 @@
-# Comunicacion-RS232
 # Comunicación RS232 - UART
 
 ## Descripción
